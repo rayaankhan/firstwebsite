@@ -1,0 +1,110 @@
+p.up {
+  font-size: 33px;
+  color: rgb(104, 197, 79);
+}
+
+a.up1 {
+  color: rgb(122, 188, 243);
+}
+a.up2 {
+  color: rgb(122, 188, 243);
+}
+a.up3 {
+  color: rgb(122, 188, 243);
+}
+a.up4 {
+  color: rgb(122, 188, 243);
+}
+a.up5 {
+  color: rgb(122, 188, 243);
+}
+
+a.up1:hover {
+  color: yellow;
+}
+a.up2:hover {
+  color: yellow;
+}
+a.up3:hover {
+  color: yellow;
+}
+a.up4:hover {
+  color: yellow;
+}
+a.up5:hover {
+  color: yellow;
+}
+
+p.picbelow {
+  font-family: "Square Peg", cursive;
+  font-size: 40px;
+  color: white;
+}
+h1 {
+  color: #bf3131;
+  border: 3px solid #1157b2;
+  padding: 0.1rem;
+  margin: 2rem 50rem 2rem 40rem;
+  color: red;
+}
+
+p.random {
+  font-size: 34px;
+  margin: 6% auto;
+  margin-left: 108px;
+  margin-right: 100px;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+img.bugatti {
+  height: 331px;
+  width: 525px;
+}
+
+p.list {
+  font-size: 37px;
+  color: magenta;
+  margin-left: 50px;
+}
+
+li.data {
+  font-size: 24px;
+  margin-left: 51px;
+  color: white;
+}
+
+h.last {
+  color: blueviolet;
+}
+
+p.last1 {
+  color: white;
+}
+
+strong.strong {
+  color: orange;
+}
+a.strong:hover {
+  color: yellow;
+}
+img.rk {
+  float: right;
+  height: 87px;
+  width: 167px;
+  margin-bottom: -48px;
+}
+
+a.moveup {
+  font-size: large;
+  position: fixed;
+  bottom: 149px;
+  right: 25px;
+  border-radius: 42px;
+  border: 2px solid;
+  padding: 12px;
+  background-color: rgb(238, 205, 143);
+}
